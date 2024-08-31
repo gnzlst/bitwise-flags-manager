@@ -1,0 +1,29 @@
+{
+  "name": "bitwise-flags-manager",
+  "version": "1.0.0",
+  "description": "A utility for managing bitwise flags.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Gonzalo Soto",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gnzlst/bitwise-flags-manager.git"
+  },
+  "keywords": [
+    "bitwise",
+    "flags",
+    "utility"
+  ],
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  },
+  "homepage": "https://github.com/gnzlst/bitwise-flags-manager#readme",
+  "bugs": {
+    "url": "https://github.com/gnzlst/bitwise-flags-manager/issues"
+  }
+}
